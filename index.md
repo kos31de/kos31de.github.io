@@ -3,24 +3,18 @@ layout: default
 title: Kosei Ide
 ---
 
-![image](image/)
+![image](image/profile.png)
 
-Kosei Ide is a senior student at Department of biology,
-Faculty of Science,
-University of the Ryukyus.
+Kosei Ide is a Software Engineer at tokyo.
 
 Projects
 --------
-
-
-Research Interests
---------
-
 
 Certificates
 --------
 - Graduated Security Mini Camp 2017
 - Graduated CODE BASE Programming Boot Camp
+- Graduated Faculty of Science, University of the Ryukyus.
 
 Conference
 --------
@@ -29,13 +23,12 @@ Conference
 
 Internship
 --------
-- Cookpad Inc
-- Persol Proces&Technology Inc
-- Minnano Wedding Co., Ltd
-
+- Cookpad Inc.
+- Persol Proces&Technology Inc.
+- Minnano Wedding Co., Ltd.
 
 Miscellany
 --------
--[blog](https://medium.com/@kos31de)/[github](https://github.com/kos31de)/[linkedin]()
+-[blog](https://medium.com/@kos31de)/[github](https://github.com/kos31de)/[linkedin]()/kos31de at gmail.com
 
-Last update: November 2018
+Last update: May 2019
